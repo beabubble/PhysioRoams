@@ -1,0 +1,6 @@
+{
+  "name": "PhysioRoams",
+  "description": "Professional, modern physiotherapy clinic website for PhysioRoams, offering manual therapy, exercise rehabilitation, and sports physiotherapy in Burnaby, BC.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
