@@ -6,22 +6,22 @@ export default function Conditions() {
     {
       id: 'neck',
       title: 'Neck Pain',
-      image: '/src/assets/images/neck pain.png',
+      image: '/images/neck pain.png',
     },
     {
       id: 'shoulder',
       title: 'Shoulder Pain',
-      image: '/src/assets/images/shoulder pain.png',
+      image: '/images/shoulder pain.png',
     },
     {
       id: 'back',
       title: 'Back Pain',
-      image: '/src/assets/images/back pain.png',
+      image: '/images/back pain.png',
     },
     {
       id: 'posture',
       title: 'Posture Issues',
-      image: '/src/assets/images/posture issues.png',
+      image: '/images/posture issues.png',
     },
   ];
 
