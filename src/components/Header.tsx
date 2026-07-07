@@ -81,7 +81,7 @@ export default function Header({ currentPage, onPageChange }: HeaderProps) {
             {/* PR-Icon Logo Image */}
             <div className="w-12 h-12 relative rounded-full overflow-hidden flex items-center justify-center border border-gray-100 bg-white shadow-sm transition-transform group-hover:scale-105">
               <img
-                src="/src/assets/images/PR-Icon.jpg"
+                src="/images/PR-Icon.jpg"
                 alt="PhysioRoams Logo Icon"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
