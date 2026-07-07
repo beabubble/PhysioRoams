@@ -85,7 +85,7 @@ export default function About() {
               {/* Profile Image Frame */}
               <div className="w-56 h-56 rounded-2xl overflow-hidden shadow-md border-4 border-white mb-6 relative group">
                 <img
-                  src="marlon.jpg"
+                  src="/images/marlon.jpg"
                   alt="Marlon Wong Uy - Registered Physiotherapist"
                   className="w-full h-full object-cover object-top transition-transform duration-500"
                   referrerPolicy="no-referrer"
