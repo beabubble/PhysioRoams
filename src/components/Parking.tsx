@@ -8,19 +8,19 @@ export default function Parking() {
       id: 'building',
       title: '1. Building Exterior',
       desc: 'Edmonds Centre for Healthy Communities corner view',
-      src: '/src/assets/images/far-ext.jpg',
+      src: '/images/far-ext.jpg',
     },
     {
       id: 'ramp',
       title: '2. Parking Entrance',
       desc: 'Ramp down to the secure underground parking gate',
-      src: '/src/assets/images/close-ext.jpg',
+      src: '/images/close-ext.jpg',
     },
     {
       id: 'inside',
       title: '3. Follow Clinic Signage',
       desc: 'park at level two',
-      src: '/src/assets/images/int.jpg',
+      src: '/images/int.jpg',
     },
   ];
 
