@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 export default function Hero() {
   // Path to our newly generated professional physiotherapy session image
-  const heroBg = '/src/assets/images/hero.png';
+  const heroBg = '/images/hero.png';
 
   const handleCall = () => {
     window.location.href = 'tel:+17788791975';
